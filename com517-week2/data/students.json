@@ -13,6 +13,10 @@
       "COM519",
       "COM520"
     ],
+    "societies": [
+      "Computing Society",
+      "Hillwalking"
+    ],
     "grades": [
       {
         "module": "COM517",
@@ -30,6 +34,11 @@
     "address": {
       "city": "Belfast",
       "postcode": "BT15 1ED"
+    },
+    "placement": {
+      "company": "Lagan Software",
+      "city": "Belfast",
+      "year": 2026
     },
     "active": true,
     "enrolled": {
@@ -49,6 +58,7 @@
       "COM501",
       "COM502"
     ],
+    "societies": [],
     "grades": [
       {
         "module": "COM501",
@@ -81,6 +91,11 @@
       "COM517",
       "COM521"
     ],
+    "societies": [
+      "Computing Society",
+      "Chess",
+      "Film"
+    ],
     "grades": [
       {
         "module": "COM517",
@@ -95,6 +110,7 @@
       "city": "Belfast",
       "postcode": "BT7 1NN"
     },
+    "placement": null,
     "active": true,
     "enrolled": {
       "$date": "2024-09-16T00:00:00Z"
@@ -113,6 +129,9 @@
       "COM101",
       "COM102",
       "MAT101"
+    ],
+    "societies": [
+      "Chess"
     ],
     "grades": [
       {
@@ -182,6 +201,9 @@
       "COM501",
       "COM503"
     ],
+    "societies": [
+      "Film"
+    ],
     "grades": [
       {
         "module": "COM501",
@@ -215,6 +237,10 @@
       "COM520",
       "COM521"
     ],
+    "societies": [
+      "Computing Society",
+      "Debating"
+    ],
     "grades": [
       {
         "module": "COM517",
@@ -232,6 +258,11 @@
     "address": {
       "city": "Belfast",
       "postcode": "BT12 4GH"
+    },
+    "placement": {
+      "company": "Foyle Analytics",
+      "city": "Coleraine",
+      "year": 2026
     },
     "active": true,
     "enrolled": {
@@ -251,6 +282,7 @@
       "COM502",
       "MAT201"
     ],
+    "societies": [],
     "grades": [
       {
         "module": "COM502",
@@ -282,6 +314,10 @@
     "modules": [
       "COM101",
       "COM103"
+    ],
+    "societies": [
+      "Hillwalking",
+      "Film"
     ],
     "grades": [
       {
@@ -347,11 +383,15 @@
     },
     "email": "kasia.nowak@example.ac.uk",
     "course": "BSc Computer Science",
-    "year": 2,
+    "year": "2",
     "modules": [
       "COM501",
       "COM503",
       "MAT201"
+    ],
+    "societies": [
+      "Chess",
+      "Computing Society"
     ],
     "grades": [
       {
@@ -389,6 +429,9 @@
       "COM517",
       "MAT301"
     ],
+    "societies": [
+      "Debating"
+    ],
     "grades": [
       {
         "module": "COM517",
@@ -402,6 +445,11 @@
     "address": {
       "city": "Belfast",
       "postcode": "BT6 8HQ"
+    },
+    "placement": {
+      "company": "Mourne Systems",
+      "city": "Newry",
+      "year": 2026
     },
     "active": true,
     "enrolled": {
