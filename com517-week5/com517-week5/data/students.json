@@ -1,0 +1,459 @@
+[
+  {
+    "student_id": "B00912345",
+    "name": {
+      "first": "Aoife",
+      "last": "Byrne"
+    },
+    "email": "aoife.byrne@example.ac.uk",
+    "course": "BSc Computing",
+    "year": 3,
+    "modules": [
+      "COM517",
+      "COM519",
+      "COM520"
+    ],
+    "societies": [
+      "Computing Society",
+      "Hillwalking"
+    ],
+    "grades": [
+      {
+        "module": "COM517",
+        "mark": 68
+      },
+      {
+        "module": "COM519",
+        "mark": 74
+      },
+      {
+        "module": "COM520",
+        "mark": 59
+      }
+    ],
+    "address": {
+      "city": "Belfast",
+      "postcode": "BT15 1ED"
+    },
+    "placement": {
+      "company": "Lagan Software",
+      "city": "Belfast",
+      "year": 2026
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00923456",
+    "name": {
+      "first": "Ben",
+      "last": "Kerr"
+    },
+    "email": "ben.kerr@example.ac.uk",
+    "course": "BSc Computer Science",
+    "year": 2,
+    "modules": [
+      "COM501",
+      "COM502"
+    ],
+    "societies": [],
+    "grades": [
+      {
+        "module": "COM501",
+        "mark": 55
+      },
+      {
+        "module": "COM502",
+        "mark": 61
+      }
+    ],
+    "address": {
+      "city": "Lisburn",
+      "postcode": "BT28 1AA"
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2025-09-15T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00934567",
+    "name": {
+      "first": "Chloe",
+      "last": "Lam"
+    },
+    "email": "chloe.lam@example.ac.uk",
+    "course": "BSc Computing",
+    "year": 3,
+    "modules": [
+      "COM517",
+      "COM521"
+    ],
+    "societies": [
+      "Computing Society",
+      "Chess",
+      "Film"
+    ],
+    "grades": [
+      {
+        "module": "COM517",
+        "mark": 81
+      },
+      {
+        "module": "COM521",
+        "mark": 77
+      }
+    ],
+    "address": {
+      "city": "Belfast",
+      "postcode": "BT7 1NN"
+    },
+    "placement": null,
+    "active": true,
+    "enrolled": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00945678",
+    "name": {
+      "first": "Dara",
+      "last": "Quinn"
+    },
+    "email": "dara.quinn@example.ac.uk",
+    "course": "BSc Data Science",
+    "year": 1,
+    "modules": [
+      "COM101",
+      "COM102",
+      "MAT101"
+    ],
+    "societies": [
+      "Chess"
+    ],
+    "grades": [
+      {
+        "module": "COM101",
+        "mark": 64
+      },
+      {
+        "module": "COM102",
+        "mark": 58
+      },
+      {
+        "module": "MAT101",
+        "mark": 72
+      }
+    ],
+    "address": {
+      "city": "Newry",
+      "postcode": "BT34 1AB"
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2026-09-21T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00956789",
+    "name": {
+      "first": "Eimear",
+      "last": "Doherty"
+    },
+    "email": "eimear.doherty@example.ac.uk",
+    "course": "BSc Software Engineering",
+    "year": 3,
+    "modules": [
+      "COM517",
+      "COM519"
+    ],
+    "grades": [
+      {
+        "module": "COM517",
+        "mark": 49
+      },
+      {
+        "module": "COM519",
+        "mark": 63
+      }
+    ],
+    "address": {
+      "city": "Coleraine",
+      "postcode": "BT52 1SA"
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00967890",
+    "name": {
+      "first": "Fionn",
+      "last": "Walsh"
+    },
+    "email": "fionn.walsh@example.ac.uk",
+    "course": "BSc Computing",
+    "year": 2,
+    "modules": [
+      "COM501",
+      "COM503"
+    ],
+    "societies": [
+      "Film"
+    ],
+    "grades": [
+      {
+        "module": "COM501",
+        "mark": 71
+      },
+      {
+        "module": "COM503",
+        "mark": 66
+      }
+    ],
+    "address": {
+      "city": "Belfast",
+      "postcode": "BT9 5AB"
+    },
+    "active": false,
+    "enrolled": {
+      "$date": "2025-09-15T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00978901",
+    "name": {
+      "first": "Grace",
+      "last": "Okafor"
+    },
+    "email": "grace.okafor@example.ac.uk",
+    "course": "BSc Computer Science",
+    "year": 3,
+    "modules": [
+      "COM517",
+      "COM520",
+      "COM521"
+    ],
+    "societies": [
+      "Computing Society",
+      "Debating"
+    ],
+    "grades": [
+      {
+        "module": "COM517",
+        "mark": 88
+      },
+      {
+        "module": "COM520",
+        "mark": 79
+      },
+      {
+        "module": "COM521",
+        "mark": 84
+      }
+    ],
+    "address": {
+      "city": "Belfast",
+      "postcode": "BT12 4GH"
+    },
+    "placement": {
+      "company": "Foyle Analytics",
+      "city": "Coleraine",
+      "year": 2026
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00989012",
+    "name": {
+      "first": "Hamza",
+      "last": "Iqbal"
+    },
+    "email": "hamza.iqbal@example.ac.uk",
+    "course": "BSc Data Science",
+    "year": 2,
+    "modules": [
+      "COM502",
+      "MAT201"
+    ],
+    "societies": [],
+    "grades": [
+      {
+        "module": "COM502",
+        "mark": 52
+      },
+      {
+        "module": "MAT201",
+        "mark": 47
+      }
+    ],
+    "address": {
+      "city": "Armagh",
+      "postcode": "BT61 7QR"
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2025-09-15T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00990123",
+    "name": {
+      "first": "Isla",
+      "last": "McCann"
+    },
+    "email": "isla.mccann@example.ac.uk",
+    "course": "BSc Software Engineering",
+    "year": 1,
+    "modules": [
+      "COM101",
+      "COM103"
+    ],
+    "societies": [
+      "Hillwalking",
+      "Film"
+    ],
+    "grades": [
+      {
+        "module": "COM101",
+        "mark": 76
+      },
+      {
+        "module": "COM103",
+        "mark": 69
+      }
+    ],
+    "address": {
+      "city": "Lisburn",
+      "postcode": "BT27 4LP"
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2026-09-21T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00901234",
+    "name": {
+      "first": "Jack",
+      "last": "Morrison"
+    },
+    "email": "jack.morrison@example.ac.uk",
+    "course": "BSc Computing",
+    "year": 3,
+    "modules": [
+      "COM517",
+      "COM519",
+      "COM521"
+    ],
+    "grades": [
+      {
+        "module": "COM517",
+        "mark": 58
+      },
+      {
+        "module": "COM519",
+        "mark": 62
+      },
+      {
+        "module": "COM521",
+        "mark": 55
+      }
+    ],
+    "address": {
+      "city": "Newry",
+      "postcode": "BT35 6XY"
+    },
+    "active": false,
+    "enrolled": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00913579",
+    "name": {
+      "first": "Kasia",
+      "last": "Nowak"
+    },
+    "email": "kasia.nowak@example.ac.uk",
+    "course": "BSc Computer Science",
+    "year": "2",
+    "modules": [
+      "COM501",
+      "COM503",
+      "MAT201"
+    ],
+    "societies": [
+      "Chess",
+      "Computing Society"
+    ],
+    "grades": [
+      {
+        "module": "COM501",
+        "mark": 67
+      },
+      {
+        "module": "COM503",
+        "mark": 73
+      },
+      {
+        "module": "MAT201",
+        "mark": 60
+      }
+    ],
+    "address": {
+      "city": "Coleraine",
+      "postcode": "BT51 3AD"
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2025-09-15T00:00:00Z"
+    }
+  },
+  {
+    "student_id": "B00924680",
+    "name": {
+      "first": "Liam",
+      "last": "O'Neill"
+    },
+    "email": "liam.oneill@example.ac.uk",
+    "course": "BSc Data Science",
+    "year": 3,
+    "modules": [
+      "COM517",
+      "MAT301"
+    ],
+    "societies": [
+      "Debating"
+    ],
+    "grades": [
+      {
+        "module": "COM517",
+        "mark": 73
+      },
+      {
+        "module": "MAT301",
+        "mark": 70
+      }
+    ],
+    "address": {
+      "city": "Belfast",
+      "postcode": "BT6 8HQ"
+    },
+    "placement": {
+      "company": "Mourne Systems",
+      "city": "Newry",
+      "year": 2026
+    },
+    "active": true,
+    "enrolled": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  }
+]
