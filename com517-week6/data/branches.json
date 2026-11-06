@@ -1,0 +1,32 @@
+[
+  {
+    "code": "BEL",
+    "name": "Belfast Central",
+    "city": "Belfast",
+    "open_sunday": true
+  },
+  {
+    "code": "LIS",
+    "name": "Lisburn Library",
+    "city": "Lisburn",
+    "open_sunday": false
+  },
+  {
+    "code": "NEW",
+    "name": "Newry Library",
+    "city": "Newry",
+    "open_sunday": false
+  },
+  {
+    "code": "COL",
+    "name": "Coleraine Library",
+    "city": "Coleraine",
+    "open_sunday": true
+  },
+  {
+    "code": "ARM",
+    "name": "Armagh Library",
+    "city": "Armagh",
+    "open_sunday": false
+  }
+]

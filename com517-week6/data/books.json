@@ -1,0 +1,422 @@
+[
+  {
+    "book_id": "B01",
+    "title": "The Glass Harbour",
+    "author": {
+      "name": "Niamh Kerr",
+      "country": "Ireland"
+    },
+    "genres": [
+      "Fiction",
+      "Mystery"
+    ],
+    "year": 2019,
+    "pages": 352,
+    "copies": 3,
+    "available": 1,
+    "branch": "BEL",
+    "summary": "A detective returns to the harbour town where her sister vanished.",
+    "award": {
+      "name": "Harbour Prize",
+      "year": 2020
+    },
+    "reviews": [
+      {
+        "reader": "Ali",
+        "stars": 5
+      },
+      {
+        "reader": "Beth",
+        "stars": 4
+      },
+      {
+        "reader": "Cara",
+        "stars": 4
+      }
+    ]
+  },
+  {
+    "book_id": "B02",
+    "title": "Code of the North",
+    "author": {
+      "name": "Tomas Lind",
+      "country": "Sweden"
+    },
+    "genres": [
+      "Fiction",
+      "Thriller"
+    ],
+    "year": 2021,
+    "pages": 410,
+    "copies": 2,
+    "available": 2,
+    "branch": "LIS",
+    "summary": "A programmer finds a secret hidden in an old company database.",
+    "reviews": [
+      {
+        "reader": "Dan",
+        "stars": 3
+      },
+      {
+        "reader": "Ali",
+        "stars": 4
+      }
+    ]
+  },
+  {
+    "book_id": "B03",
+    "title": "Learning MongoDB the Easy Way",
+    "author": {
+      "name": "Priya Shah",
+      "country": "India"
+    },
+    "genres": [
+      "Non-fiction",
+      "Computing"
+    ],
+    "year": 2022,
+    "pages": 288,
+    "copies": 4,
+    "available": 3,
+    "branch": "BEL",
+    "summary": "A practical guide to document databases, queries and indexes.",
+    "reviews": [
+      {
+        "reader": "Eve",
+        "stars": 5
+      },
+      {
+        "reader": "Finn",
+        "stars": 5
+      },
+      {
+        "reader": "Gail",
+        "stars": 4
+      },
+      {
+        "reader": "Ali",
+        "stars": 5
+      }
+    ]
+  },
+  {
+    "book_id": "B04",
+    "title": "Salt and Stone",
+    "author": {
+      "name": "Siobhan Doyle",
+      "country": "Ireland"
+    },
+    "genres": [
+      "Fiction",
+      "Historical"
+    ],
+    "year": "2015",
+    "pages": 512,
+    "copies": 1,
+    "available": 0,
+    "branch": "NEW",
+    "summary": "Two families are divided by a storm in a small fishing village.",
+    "reviews": [
+      {
+        "reader": "Beth",
+        "stars": 4
+      }
+    ]
+  },
+  {
+    "book_id": "B05",
+    "title": "The Quiet Algorithm",
+    "author": {
+      "name": "Marcus Bell",
+      "country": "UK"
+    },
+    "genres": [
+      "Non-fiction",
+      "Computing",
+      "Science"
+    ],
+    "year": 2018,
+    "pages": 240,
+    "copies": 2,
+    "available": 1,
+    "branch": "COL",
+    "summary": "How simple algorithms shape the decisions we make every day.",
+    "reviews": []
+  },
+  {
+    "book_id": "B06",
+    "title": "Midnight on the Lagan",
+    "author": {
+      "name": "Niamh Kerr",
+      "country": "Ireland"
+    },
+    "genres": [
+      "Fiction",
+      "Mystery",
+      "Thriller"
+    ],
+    "year": 2023,
+    "pages": 330,
+    "copies": 3,
+    "available": 3,
+    "branch": "BEL",
+    "summary": "A murder on a Belfast river boat tests a young detective.",
+    "award": {
+      "name": "Crime Writers Shortlist",
+      "year": 2024
+    },
+    "reviews": [
+      {
+        "reader": "Cara",
+        "stars": 5
+      },
+      {
+        "reader": "Dan",
+        "stars": 4
+      },
+      {
+        "reader": "Eve",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "book_id": "B07",
+    "title": "Gardens of Light",
+    "author": {
+      "name": "Elena Rossi",
+      "country": "Italy"
+    },
+    "genres": [
+      "Non-fiction",
+      "Gardening"
+    ],
+    "year": 2012,
+    "pages": 196,
+    "copies": 1,
+    "available": 1,
+    "branch": "LIS",
+    "summary": "Planting through the seasons in small spaces.",
+    "reviews": [
+      {
+        "reader": "Gail",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "book_id": "B08",
+    "title": "Stars Beyond Reach",
+    "author": {
+      "name": "Kenji Mori",
+      "country": "Japan"
+    },
+    "genres": [
+      "Fiction",
+      "Science Fiction"
+    ],
+    "year": 2020,
+    "pages": 455,
+    "copies": 2,
+    "available": 0,
+    "branch": "NEW",
+    "summary": "A crew of five travels to a planet that should not exist.",
+    "award": {
+      "name": "Nebula Circle Award",
+      "year": 2021
+    },
+    "reviews": [
+      {
+        "reader": "Finn",
+        "stars": 5
+      },
+      {
+        "reader": "Ali",
+        "stars": 4
+      },
+      {
+        "reader": "Dan",
+        "stars": 5
+      }
+    ]
+  },
+  {
+    "book_id": "B09",
+    "title": "Data Stories",
+    "author": {
+      "name": "Priya Shah",
+      "country": "India"
+    },
+    "genres": [
+      "Non-fiction",
+      "Computing",
+      "Science"
+    ],
+    "year": 2017,
+    "pages": 310,
+    "copies": 2,
+    "available": 2,
+    "branch": "COL",
+    "summary": "Telling clear stories with charts, numbers and databases.",
+    "reviews": [
+      {
+        "reader": "Eve",
+        "stars": 4
+      },
+      {
+        "reader": "Beth",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "book_id": "B10",
+    "title": "The Winter Orchard",
+    "author": {
+      "name": "Elena Rossi",
+      "country": "Italy"
+    },
+    "genres": [
+      "Fiction",
+      "Historical",
+      "Romance"
+    ],
+    "year": 2010,
+    "pages": 380,
+    "copies": 1,
+    "available": 1,
+    "branch": "BEL",
+    "summary": "A love letter is found hidden in an orchard wall."
+  },
+  {
+    "book_id": "B11",
+    "title": "Rivers Run North",
+    "author": {
+      "name": "Tomas Lind",
+      "country": "Sweden"
+    },
+    "genres": [
+      "Fiction",
+      "Thriller"
+    ],
+    "year": 2016,
+    "pages": 298,
+    "copies": 2,
+    "available": 1,
+    "branch": "LIS",
+    "summary": "A missing journalist and a river that hides the truth.",
+    "reviews": [
+      {
+        "reader": "Cara",
+        "stars": 2
+      },
+      {
+        "reader": "Finn",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "book_id": "B12",
+    "title": "Cooking with Five Things",
+    "author": {
+      "name": "Marcus Bell",
+      "country": "UK"
+    },
+    "genres": [
+      "Non-fiction",
+      "Cookery"
+    ],
+    "year": 2021,
+    "pages": 160,
+    "copies": 3,
+    "available": 3,
+    "branch": "COL",
+    "summary": "Simple meals made from five ingredients or fewer.",
+    "reviews": [
+      {
+        "reader": "Gail",
+        "stars": 5
+      },
+      {
+        "reader": "Beth",
+        "stars": 5
+      }
+    ]
+  },
+  {
+    "book_id": "B13",
+    "title": "The Last Lighthouse",
+    "author": {
+      "name": "Siobhan Doyle",
+      "country": "Ireland"
+    },
+    "genres": [
+      "Fiction",
+      "Mystery"
+    ],
+    "year": 2008,
+    "pages": 274,
+    "copies": 1,
+    "available": 1,
+    "branch": "NEW",
+    "summary": "A lighthouse keeper's diary reveals a crime from a hundred years ago.",
+    "reviews": [
+      {
+        "reader": "Dan",
+        "stars": 4
+      },
+      {
+        "reader": "Eve",
+        "stars": 4
+      },
+      {
+        "reader": "Ali",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "book_id": "B14",
+    "title": "Python for Curious Minds",
+    "author": {
+      "name": "Kenji Mori",
+      "country": "Japan"
+    },
+    "genres": [
+      "Non-fiction",
+      "Computing"
+    ],
+    "year": 2024,
+    "pages": 342,
+    "copies": 3,
+    "available": 2,
+    "branch": "BEL",
+    "summary": "Learn Python by building small games and tools.",
+    "reviews": [
+      {
+        "reader": "Finn",
+        "stars": 4
+      }
+    ]
+  },
+  {
+    "book_id": "B15",
+    "title": "Moonlight Recipes",
+    "author": {
+      "name": "Elena Rossi",
+      "country": "Italy"
+    },
+    "genres": [
+      "Non-fiction",
+      "Cookery"
+    ],
+    "year": 2019,
+    "pages": 210,
+    "copies": 1,
+    "available": 0,
+    "branch": "LIS",
+    "summary": "Late-night dishes for busy people.",
+    "reviews": []
+  }
+]
